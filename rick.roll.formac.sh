@@ -1,1 +1,1 @@
-open https://youtu.be/dQw4w9WgXcQ?autoplay=1
+open https://www.youtube.com/watch?v=dQw4w9WgXcQ?autoplay=1
